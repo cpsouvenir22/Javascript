@@ -1,0 +1,16 @@
+GET http://localhost:8000/Products HTTP/1.1
+
+###
+POST http://localhost:8000/Products HTTP/1.1
+Content-Type:application/json
+
+{
+    "title": "Nike Dunk",
+    "price":220,
+    "description":"Ben and Jerry's Edition"
+
+}
+
+###
+
+DELETE http://localhost:8000/Products/605b39fc2ba59e94e7a836e9 HTTP/1.1

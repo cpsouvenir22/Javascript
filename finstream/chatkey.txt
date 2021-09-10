@@ -1,0 +1,19 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDpBHIPrDOUaRDOxKdbRGHbQUkfF3dWYiU",
+    authDomain: "chatster-d04d4.firebaseapp.com",
+    projectId: "chatster-d04d4",
+    storageBucket: "chatster-d04d4.appspot.com",
+    messagingSenderId: "601832290178",
+    appId: "1:601832290178:web:4aacc92d5b185db550419b"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>

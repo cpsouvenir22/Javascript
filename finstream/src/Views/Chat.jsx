@@ -11,7 +11,7 @@ firebase.initializeApp({
     authDomain: "chatster-d04d4.firebaseapp.com",
     projectId: "chatster-d04d4",
     storageBucket: "chatster-d04d4.appspot.com",
-    messagingSenderId: "601832290178",
+    messagingSenderId: *********************,
     appId: ************************************
     })
 

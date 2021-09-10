@@ -7,12 +7,12 @@ import { useCollectionData } from 'react-firebase-hooks/firestore';
 import { useRef, useState } from 'react';
 
 firebase.initializeApp({
-    apiKey: "AIzaSyDpBHIPrDOUaRDOxKdbRGHbQUkfF3dWYiU",
+    apiKey: ***********************************,
     authDomain: "chatster-d04d4.firebaseapp.com",
     projectId: "chatster-d04d4",
     storageBucket: "chatster-d04d4.appspot.com",
     messagingSenderId: "601832290178",
-    appId: "1:601832290178:web:45865c24502342e150419b"
+    appId: ************************************
     })
 
 const auth = firebase.auth();

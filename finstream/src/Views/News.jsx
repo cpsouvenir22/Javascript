@@ -16,8 +16,7 @@ const News = props => {
         method: 'GET',
         url: 'https://cnbc.p.rapidapi.com/news/v2/list-trending',
         params: {tag: 'Articles', count: '15'},
-        headers: {'x-rapidapi-host': 'cnbc.p.rapidapi.com',
-        'x-rapidapi-key': '39d86d9d0amshb4767653d314d44p196fb5jsnb3ef8ccad018' } 
+        headers: {*********************************************** } 
         };
 
     useEffect(() => {

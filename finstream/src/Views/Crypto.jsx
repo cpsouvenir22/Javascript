@@ -10,8 +10,7 @@ const Crypto = props => {
     const options = {
         method: 'GET',
         url: 'https://coinranking1.p.rapidapi.com/coins',
-        headers:   {'x-rapidapi-host': 'coinranking1.p.rapidapi.com',
-        'x-rapidapi-key': '39d86d9d0amshb4767653d314d44p196fb5jsnb3ef8ccad018'}
+        headers:   {***************************************}
         };
     useEffect(() => {
         
